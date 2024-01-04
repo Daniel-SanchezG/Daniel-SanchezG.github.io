@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -65,7 +57,7 @@ sections:
         - title: Researcher
           company: Universidad de Sevilla
           company_url: ''
-          company_logo: org-gc
+          company_logo: US-marca-digital-cuadrada
           location: Sevilla, Spain
           date_start: '2022-10-15'
           date_end: '2023-02-01'
@@ -80,7 +72,11 @@ sections:
           location: Sleaford, Uk
           date_start: '2022-01-01'
           date_end: '2022-12-31'
-          description: Comercial archaeology research
+          description: |2-
+            Responsabilities:
+            * Trial trench evaluations
+            * Surveys
+            * Archaeological excavations
     design:
       columns: '2'
   - block: accomplishments

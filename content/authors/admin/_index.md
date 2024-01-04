@@ -40,9 +40,9 @@ interests:
 education:
   courses:
     - course: M.A in Archaeology
-      institution: Seville University
+      institution: Universidad de Sevilla
       year: 2020
-    - course: BSc in Antrhopology
+    - course: BSc in Anthropology
       institution: Universidad de Antioquia
       year: 2015
 
@@ -71,5 +71,5 @@ social:
 highlight_name: true
 ---
 
- Daniel S.G is a colombian anthropologist and archaeologist pursuing a PhD at the Center of Archaeology of the University of Lisbon (UNIARQ). His research interests include digital approaches for archaeological research, modelling of past social complexity and graph-based  archaeological data anlysis. He belongs to the Quantitative Archaeology Research Group of the University os Seville (QUANTAS)
+ Daniel S.G. is a Colombian anthropologist and archaeologist doing his PhD at the Archaeological Centre of the University of Lisbon (UNIARQ). His research interests include digital approaches to archaeological research, modelling the social complexity of the past, and graph-based analysis of archaeological data. He is a member of the Quantitative Archaeology Research Group at the University of Seville (QUANTAS).
 {style="text-align: justify;"}

@@ -57,7 +57,7 @@ sections:
         - title: Researcher
           company: Universidad de Sevilla
           company_url: 'https://prisma.us.es/financiacion/14775'
-          company_logo: US-marca-digital-cuadrada
+          company_logo: 
           location: Sevilla, Spain
           date_start: '2022-10-15'
           date_end: '2023-02-01'

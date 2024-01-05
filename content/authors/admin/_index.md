@@ -56,7 +56,7 @@ social:
     link: https://github.com/Daniel-SanchezG
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/daniel-sánchez-gómez
+    link: https://www.linkedin.com/in/daniel-s%C3%A1nchez-g%C3%B3mez
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

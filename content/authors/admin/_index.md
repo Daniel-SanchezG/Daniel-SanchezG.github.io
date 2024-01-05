@@ -22,7 +22,7 @@ organizations:
     url: https://www.uniarq.net/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Colombian anthtopological archaeologist. PhD student focused on machine-learning modelling applied to past social complexity.My research interests include digital approaches for archaeological research, network analysis,  and complex system science.
+bio: Colombian anthropological archaeologist. PhD student focused on machine-learning modelling applied to past social complexity.My research interests include digital approaches for archaeological research, network analysis,  and complex system science.
 
 # Interests to show in About widget
 interests:
@@ -68,5 +68,5 @@ social:
 highlight_name: true
 ---
 
- Daniel S.G. is a Colombian anthropologist and archaeologist doing his PhD at the Archaeological Centre of the University of Lisbon (UNIARQ). His research interests include digital approaches to archaeological research, modelling the social complexity of the past, and graph-based analysis of archaeological data. He is a member of the Quantitative Archaeology Research Group at the University of Seville (QUANTAS).
+ Daniel S.G. is a Colombian anthropologist and archaeologist doing his PhD at the Archaeological Centre of the University of Lisbon (UNIARQ). His research interests include digital approaches to archaeological research, modelling past social complexity, and graph-based analysis of archaeological data. He is a member of the Quantitative Archaeology Research Group at the University of Seville (QUANTAS).
 {style="text-align: justify;"}

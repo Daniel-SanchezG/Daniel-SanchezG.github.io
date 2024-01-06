@@ -62,7 +62,9 @@ sections:
         - name: Deep Learning
           tag: Deep Learning
         - name: PEPAdb
-          tag: PEPAdb
+          tag: external-project
+        - name: IberAmber
+          tag: IberAmber  
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

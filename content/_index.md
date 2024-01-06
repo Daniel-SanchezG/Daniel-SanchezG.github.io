@@ -62,7 +62,7 @@ sections:
         - name: Deep Learning
           tag: Deep Learning
         - name: PEPAdb
-          tag: external-project
+          tag: Demo
         - name: IberAmber
           tag: IberAmber  
     design:

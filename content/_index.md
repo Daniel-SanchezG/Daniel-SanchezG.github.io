@@ -62,7 +62,7 @@ sections:
         - name: Deep Learning
           tag: Deep Learning
         - name: PEPAdb
-          tag: Demo
+          tag: PEPAdb
         - name: IberAmber
           tag: IberAmber  
     design:

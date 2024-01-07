@@ -6,7 +6,7 @@ tags:
 date: "2024-01-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https:/iberamber.letras.ulisboa.pt
+external_link: https://iberamber.letras.ulisboa.pt
 image:
   caption: 
   focal_point: Smart

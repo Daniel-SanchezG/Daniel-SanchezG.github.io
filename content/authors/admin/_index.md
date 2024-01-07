@@ -71,5 +71,5 @@ social:
 highlight_name: true
 ---
 
- Daniel S.G. is a Colombian anthropologist and archaeologist doing his PhD at the Archaeological Centre of the University of Lisbon (UNIARQ). His research interests include digital approaches to archaeological research, modelling past social complexity, and graph-based analysis of archaeological data. He is a member of the Quantitative Archaeology Research Group at the University of Seville (QUANTAS).
+ Daniel S.G. is a Colombian anthropologist and archaeologist  currently pursuing a PhD at the Archaeological Centre of the University of Lisbon (UNIARQ). His research interests include digital approaches to archaeological research, modelling past social complexity, and graph-based analysis of archaeological data. He is also a member of the Quantitative Archaeology Research Group at the University of Seville (QUANTAS).
 {style="text-align: justify;"}

@@ -22,7 +22,7 @@ organizations:
     url: https://www.uniarq.net/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Colombian anthropological archaeologist. PhD student focused on machine-learning modelling applied to past social complexity.My research interests include digital approaches for archaeological research, network analysis,  and complex system science.
+bio: Colombian anthropological archaeologist. PhD student focused on machine-learning modelling applied to past social complexity. My research interests include digital approaches for archaeological research, network analysis,  and complex system science.
 
 # Interests to show in About widget
 interests:
@@ -71,5 +71,7 @@ social:
 highlight_name: true
 ---
 
- Daniel S.G. is a Colombian anthropologist and archaeologist  currently pursuing a PhD at the Archaeological Centre of the University of Lisbon (UNIARQ). His research interests include digital approaches to archaeological research, modelling past social complexity, and graph-based analysis of archaeological data. He is also a member of the Quantitative Archaeology Research Group at the University of Seville (QUANTAS).
+ Daniel S.G. is a Colombian anthropologist and archaeologist  currently pursuing a PhD at the Archaeological Centre of the University of Lisbon (UNIARQ). His research interests include digital approaches to archaeological research, computational modelling past social complexity, and graph-based analysis of archaeological data. He is also a member of the Quantitative Archaeology Research Group at the University of Seville (QUANTAS).
+ ---
+ Daniel S.G es un antropólogo y arqueólogo colombiano actualmente realizando un PhD en el Centro de arqueologia da Universidade de Lisba (UNIARQ). Sus intereses incluyen enfoques digitales de investigación arqueológica, modelamiento computacional de la complejidad social en el pasado, y analisis basado en grafos de datos arqueológicos. Tambien es miembro del grupo de investigación de Arquoelogia Cuantitativa de la Universidad de Sevilla (QUANTAS)
 {style="text-align: justify;"}

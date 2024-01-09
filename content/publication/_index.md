@@ -13,4 +13,8 @@ view: 4
 banner:
   caption: ''
   image: ''
+
+links:
+- name: Custom Link
+  url: https://bibliotecadigital.udea.edu.co/handle/10495/16468
 ---

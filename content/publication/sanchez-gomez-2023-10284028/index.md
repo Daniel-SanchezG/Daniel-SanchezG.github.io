@@ -1,6 +1,6 @@
 ---
 title: Chasing Social Complexity through Body Ornaments in the Recent Prehistory of
-  Iberia. Implemantation of an Archaeochemical Tool for Prehistoric Data Analysis
+  Iberia. Implementation of an Archaeochemical Tool for Prehistoric Data Analysis
   and Predictive Modelling
 authors:
 - Daniel Sanchez-Gomez

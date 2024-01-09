@@ -7,6 +7,6 @@ date: '2020-01-01'
 publishDate: '2024-01-08T17:25:13.085108Z'
 publication_types:
 - chapter
-publication: '*Un Informe y Siente Ensayos Relacionados Con La Patrimonialización
+publication: '*Un Informe y Siete Ensayos Relacionados Con La Patrimonialización
   y La Ciencia Abierta*'
 ---

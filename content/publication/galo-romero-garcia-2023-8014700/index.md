@@ -4,12 +4,12 @@ authors:
 - Galo Romero García
 - José Ángel Garrido Cordero
 - Daniel Sánchez Gómez
-- José M. Mart\ńez-Blanes
+- José M. Martínez-Blanes
 - Ana C. Sousa
-- Mar\' ́Dolores Zambrana-Vega
-- Mar\'iD́olores Simón Vallejo
+- María Dolores Zambrana-Vega
+- María DDolores Simón Vallejo
 - Diego Romero Vera
-- Garc\'iaŔodrigo Villalobos
+- García Ŕodrigo Villalobos
 - Carlos P. Odriozola Lloret
 date: '2023-06-01'
 publishDate: '2024-01-08T17:25:13.062131Z'

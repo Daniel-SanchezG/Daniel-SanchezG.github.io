@@ -7,7 +7,7 @@ authors:
 date: '2023-12-01'
 publishDate: '2024-01-08T17:25:13.071277Z'
 publication_types:
-- manuscript
-publication: '*Zenodo*'
+- Academic presentation
+publication: 'CAA2023'
 doi: 10.5281/zenodo.10284028
 ---

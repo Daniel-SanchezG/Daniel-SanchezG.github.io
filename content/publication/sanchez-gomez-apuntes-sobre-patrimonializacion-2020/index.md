@@ -10,14 +10,11 @@ publication_types:
 publication: '*Un Informe y Siete Ensayos Relacionados Con La Patrimonialización
   y La Ciencia Abierta*'
 
-tags: []
 
-# Display this page in the Featured widget?
-featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
+ links:
+ - name: Custom Link
 #   url: http://example.org
 
 url_pdf: 'https://bibliotecadigital.udea.edu.co/handle/10495/16468'

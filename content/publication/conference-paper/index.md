@@ -1,12 +1,12 @@
 ---
-title: 'An example conference paper'
+title: 'Chasing Social Complexity through Body Ornaments in the Recent Prehistory of Iberia. Implementation of an Archaeochemical Tool for Prehistoric Data Analysis and Predictive Modelling'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - 
 
 # Author notes (optional)
 author_notes:

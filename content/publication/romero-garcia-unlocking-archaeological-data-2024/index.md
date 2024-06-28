@@ -5,7 +5,7 @@ authors:
 - Galo Romero-García
 - Daniel Sánchez-Gómez
 - José Á Garrido-Cordero
-- José M. Mart\ńez-Blanes
+- José M. Martínez-Blanes
 - Ana C. Sousa
 - Carlos P. Odriozola
 date: '2024-01-01'

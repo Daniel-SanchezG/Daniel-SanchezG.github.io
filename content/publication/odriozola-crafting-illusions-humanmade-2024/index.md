@@ -5,13 +5,13 @@ authors:
 - Carlos P. Odriozola
 - José Ángel Garrido-Cordero
 - Ana C. Sousa
-- José Mar\á Martínez-Blanes
-- ́ Galo Romero-Garc\'
+- José María Martínez-Blanes
+- ́Galo Romero-García
 - Daniel Sánchez-Gómez
 - Manel Edo i Benaigues
 - Diego Romero-Vera
-- Mar\'iD́olores Simón-Vallejo
-- Mar\'iaólores Zambrana Vega
+- María Dolores Simón-Vallejo
+- María Dolores Zambrana Vega
 - José Luis Molina González
 date: '2024-08-01'
 publishDate: '2024-06-28T20:39:24.812880Z'

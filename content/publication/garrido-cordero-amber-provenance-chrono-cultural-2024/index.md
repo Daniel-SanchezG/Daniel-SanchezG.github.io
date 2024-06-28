@@ -7,7 +7,7 @@ authors:
 - A. C. Sousa
 - G. Romero-García
 - D. Sánchez-Gómez
-- J. M. Mart\ńez Blanes
+- J. M. Martínez Blanes
 - M. Lázarich
 - M. D. Zambrana-Vega
 - J. L. V. Gonçalves

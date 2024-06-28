@@ -1,1 +1,1 @@
-### Daniel S.G - Academic Website
+### Daniel S.G - Academic Website [rendered website](https://daniel-sanchezg.github.io/)

@@ -25,7 +25,7 @@ publishDate: '2023-04-06T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: In *CAA 2023 Conference*
 publication_short: In *CAA2023*
 
 abstract: 'Since the expansion of the Neolithic across the Mediterranean, with the arrival and
@@ -74,8 +74,8 @@ featured: true
 
 
 
-url_slides: 'https://zenodo.org/records/10284028'
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+
+url_source: 'https://zenodo.org/records/10284028'
 
 
 # Featured image

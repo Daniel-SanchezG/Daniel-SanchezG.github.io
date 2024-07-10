@@ -28,7 +28,36 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Since the expansion of the Neolithic across the Mediterranean, with the arrival and
+consolidation of village life and agriculture, long-distance exchange experiences
+unusual growth, and exotic items become an important means of displaying new roles
+and social differences within and between communities. The use and association
+of exotic items with specific individuals increase as social complexity grows and it
+becomes more necessary to enhance social differences and exhibit the status of the
+bearer. The study of the geographical origin and the Spatio-temporal distribution
+patterns of exotic raw materials and their products are trending topics in European
+archaeological research since they are considered key to understanding social
+146interaction and the mobility patterns of individuals and goods at different scales.
+Variscite-like minerals are some of the most used materials for the elaboration of body
+adornments in prehistory that have both, an important weight in the archaeological
+record and a relevant research tradition in the Iberian Peninsula context. Thanks to the
+development of novel chemical analytical techniques, which are both portable and
+non-destructive, in the last ten years it has been possible to record data of thousands
+of items of personal adornment made out of different minerals from more than
+900 archaeological sites on the Iberian Peninsula through different projects, which
+represents a first-rate experimental data set for the study of these subjects. Despite
+the existence of such relevant data sets, to date, there are both methodological and
+theoretical challenges in extracting knowledge from this type of resource due to the
+lack of comprehensive studies with a data-driven approach. It is still necessary to
+make exhaustive inventories of Iberian sources, mineralogical characterisation of
+items, and systematisation of scattered and unpublished data among other urgent
+tasks that will improve or reconsider provenance models used to explain the socio-
+economic dynamics in late prehistory. Through the use of different techniques of
+Computational archaeology such as Data mining and Machine Learning, this project
+aims to explore a data-driven approach to solve some of the main methodological
+challenges in the study of the socio-economic complexity in the late prehistory of the
+Iberian Peninsula and develop an Open Access approach for the publication of results
+by the necessity of digitalization of humanities.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -43,14 +72,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
+
+
+
+url_slides: 'https://zenodo.org/records/10284028'
 url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

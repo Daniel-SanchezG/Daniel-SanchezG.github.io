@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *CAA2023*
 
-abstract: Since the expansion of the Neolithic across the Mediterranean, with the arrival and
+abstract: 'Since the expansion of the Neolithic across the Mediterranean, with the arrival and
 consolidation of village life and agriculture, long-distance exchange experiences
 unusual growth, and exotic items become an important means of displaying new roles
 and social differences within and between communities. The use and association
@@ -57,7 +57,7 @@ Computational archaeology such as Data mining and Machine Learning, this project
 aims to explore a data-driven approach to solve some of the main methodological
 challenges in the study of the socio-economic complexity in the late prehistory of the
 Iberian Peninsula and develop an Open Access approach for the publication of results
-by the necessity of digitalization of humanities.
+by the necessity of digitalization of humanities.'
 
 # Summary. An optional shortened abstract.
 summary: 

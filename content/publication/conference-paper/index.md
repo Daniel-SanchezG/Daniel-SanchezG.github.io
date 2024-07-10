@@ -60,8 +60,7 @@ Iberian Peninsula and develop an Open Access approach for the publication of res
 by the necessity of digitalization of humanities.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: 
 tags: []
 
 # Display this page in the Featured widget?

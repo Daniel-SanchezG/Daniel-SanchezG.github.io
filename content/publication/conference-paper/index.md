@@ -8,13 +8,10 @@ authors:
   - admin
   - 
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+
 
 date: '2023-04-06T00:00:00Z'
-doi: ''
+doi: '10.5281/zenodo.10284027'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-06T00:00:00Z'
@@ -37,7 +34,7 @@ becomes more necessary to enhance social differences and exhibit the status of t
 bearer. The study of the geographical origin and the Spatio-temporal distribution
 patterns of exotic raw materials and their products are trending topics in European
 archaeological research since they are considered key to understanding social
-146interaction and the mobility patterns of individuals and goods at different scales.
+interaction and the mobility patterns of individuals and goods at different scales.
 Variscite-like minerals are some of the most used materials for the elaboration of body
 adornments in prehistory that have both, an important weight in the archaeological
 record and a relevant research tradition in the Iberian Peninsula context. Thanks to the
@@ -98,7 +95,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+
 ---
 
 {{% callout note %}}
@@ -109,4 +106,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+

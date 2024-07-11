@@ -6,8 +6,9 @@ authors:
 - Ana Catarina Sousa
 - José Ángel Garrido-Cordero
 - Galo Romero-García
-- José Mar\' ́and Benaiges, Manel Edo I. Mart\ńez-Blanes
-- Villalobos-Garc\'i ́Rodrigo
+- José María Martínez-Blanes 
+- Manel Edo I Benaiges,
+- Rodrigo Villalobos-García 
 - Victor S. Gonçalves
 date: '2024-07-01'
 publishDate: '2024-07-11T12:32:23.448865Z'

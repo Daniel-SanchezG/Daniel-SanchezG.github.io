@@ -56,7 +56,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/daniel-s%C3%A1nchez-g%C3%B3mez
-  - icon: academicons/google-scholar
+  - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.es/citations?user=b3VtkHAAAAAJ&hl=es
   # Link to a PDF of your resume/CV.

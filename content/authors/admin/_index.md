@@ -22,11 +22,11 @@ organizations:
     url: https://www.uniarq.net/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Colombian anthropological archaeologist. PhD student focused on machine-learning modelling applied to past social complexity. My research interests include digital approaches for archaeological research, network analysis,  and complex system science.
+bio: Colombian anthropological archaeologist. PhD student focused on machine-learning modeling applied to past social complexity. My research interests include digital approaches for archaeological research, network analysis, and Complexity Science.
 
 # Interests to show in About widget
 interests:
-  - Social complexity
+  - Social Complexity
   - Computational Modeling
   - Graph-based data analysis
   - Open Science
@@ -70,7 +70,7 @@ social:
 highlight_name: true
 ---
 
- I am a Colombian anthropologist and archaeologist currently pursuing a PhD at the Archaeological Centre of the University of Lisbon (UNIARQ). My research interests include digital approaches to archaeological research, Computational Modeling of Social Complexity in a long-term perspective, and graph-based analysis of archaeological data. Am a member of the Quantitative Archaeology Research Group at the University of Seville [QUANTAS](https://pepadb.us.es/app/#quantas) and co-founder of the regional chapter for Latin America and the Caribbean of Computer Applications and Quantitative Methods in Archaeology [CAA-LAC](https://caa-international.org/national-chapters/latin-america/)
+ I am a Colombian anthropologist and archaeologist currently pursuing a PhD at the Centre for Archaeology of the University of Lisbon (UNIARQ). My research interests include digital approaches to archaeological research, Computational Modeling of Social Complexity in a long-term perspective, and graph-based analysis of archaeological data. Am a member of the Quantitative Archaeology Research Group at the University of Seville [QUANTAS](https://pepadb.us.es/app/#quantas) and co-founder of the regional chapter for Latin America and the Caribbean of Computer Applications and Quantitative Methods in Archaeology [CAA-LAC](https://caa-international.org/national-chapters/latin-america/)
  
  ---
  Soy un antropólogo y arqueólogo colombiano actualmente realizando un PhD en el Centro de arqueologia da Universidade de Lisba (UNIARQ). Mis intereses incluyen enfoques digitales de investigación arqueológica, modelamiento computacional de la complejidad social en el pasado, y analisis basado en grafos de datos arqueológicos. Soy miembro del grupo de investigación de Arqueologia Cuantitativa de la Universidad de Sevilla (QUANTAS) y co-fundador del capítulo regional para Latino América y el Caribe del Computer Applications and Quantitative Methods in Archaeology (CAA)

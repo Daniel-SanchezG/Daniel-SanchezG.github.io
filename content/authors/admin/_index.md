@@ -27,7 +27,7 @@ bio: Colombian anthropological archaeologist. PhD student focused on machine-lea
 # Interests to show in About widget
 interests:
   - Social complexity
-  - Computational modelling
+  - Computational Modeling
   - Graph-based data analysis
   - Open Science
 
@@ -56,6 +56,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/daniel-s%C3%A1nchez-g%C3%B3mez
+  - icon: academicons/google-scholar
+    icon_pack: fab
+    link: https://scholar.google.es/citations?user=b3VtkHAAAAAJ&hl=es
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

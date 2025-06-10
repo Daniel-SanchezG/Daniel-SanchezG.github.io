@@ -57,7 +57,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/daniel-s%C3%A1nchez-g%C3%B3mez
   - icon: google-scholar
-    icon_pack: brands
+    icon_pack: ai
     link: https://scholar.google.es/citations?user=b3VtkHAAAAAJ&hl=es
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -70,8 +70,8 @@ social:
 highlight_name: true
 ---
 
- Hi! I am a Colombian anthropologist and archaeologist currently pursuing a PhD at the Archaeological Centre of the University of Lisbon (UNIARQ). My research interests include digital approaches to archaeological research, computational modelling of past social complexity, and graph-based analysis of archaeological data.  Also am a member of the Quantitative Archaeology Research Group at the University of Seville (QUANTAS).
+ I am a Colombian anthropologist and archaeologist currently pursuing a PhD at the Archaeological Centre of the University of Lisbon (UNIARQ). My research interests include digital approaches to archaeological research, computational modelling of past social complexity, and graph-based analysis of archaeological data.  Also am a member of the Quantitative Archaeology Research Group at the University of Seville (QUANTAS).
  
  ---
- Hola! Soy un antropólogo y arqueólogo colombiano actualmente realizando un PhD en el Centro de arqueologia da Universidade de Lisba (UNIARQ). Mis intereses incluyen enfoques digitales de investigación arqueológica, modelamiento computacional de la complejidad social en el pasado, y analisis basado en grafos de datos arqueológicos. Tambien soy miembro del grupo de investigación de Arqueologia Cuantitativa de la Universidad de Sevilla (QUANTAS)
+ Soy un antropólogo y arqueólogo colombiano actualmente realizando un PhD en el Centro de arqueologia da Universidade de Lisba (UNIARQ). Mis intereses incluyen enfoques digitales de investigación arqueológica, modelamiento computacional de la complejidad social en el pasado, y analisis basado en grafos de datos arqueológicos. Tambien soy miembro del grupo de investigación de Arqueologia Cuantitativa de la Universidad de Sevilla (QUANTAS)
 {style="text-align: justify;"}

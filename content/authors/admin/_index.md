@@ -57,7 +57,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/daniel-s%C3%A1nchez-g%C3%B3mez
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: brands
     link: https://scholar.google.es/citations?user=b3VtkHAAAAAJ&hl=es
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,

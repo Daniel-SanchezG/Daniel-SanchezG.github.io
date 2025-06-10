@@ -1,5 +1,5 @@
 ---
-title: A Forest of Green Beads: A Machine-Learning Based Framework to Determine the Geological Provenance of Prehistoric Variscite Artifacts
+title: A Forest of Green Beads. A Machine-Learning Based Framework to Determine the Geological Provenance of Prehistoric Variscite Artifacts
 authors:
 - Daniel Sanchez-Gomez
 - José Ángel Garrido-Cordero

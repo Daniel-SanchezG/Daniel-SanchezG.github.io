@@ -27,7 +27,8 @@ bio: Colombian anthropological archaeologist. PhD student focused on machine-lea
 # Interests to show in About widget
 interests:
   - Social Complexity
-  - Computational Modeling
+  - Semantic Modelling of Archaeological Data
+  - Predictive Modelling
   - Graph-based data analysis
   - Open Science
 
@@ -70,7 +71,7 @@ social:
 highlight_name: true
 ---
 
- I am a Colombian anthropologist and archaeologist currently pursuing a PhD at the Centre for Archaeology of the University of Lisbon (UNIARQ). My research interests include digital approaches to archaeological research, Computational Modeling of Social Complexity in a long-term perspective, and graph-based analysis of archaeological data. Am a member of the Quantitative Archaeology Research Group at the University of Seville [QUANTAS](https://pepadb.us.es/app/#quantas) and co-founder of the regional chapter for Latin America and the Caribbean of Computer Applications and Quantitative Methods in Archaeology [CAA-LAC](https://caa-international.org/national-chapters/latin-america/)
+I'm an Anthropological archaeologist and Research Software Developer pursuing a PhD at the Archaeological Centre of the University of Lisbon (UNIARQ).  My research includes semantic modelling of archaeological data, predictive modelling of social complexity, and graph-based analysis of archaeological data. Am a member of the Quantitative Archaeology Research Group at the University of Seville [QUANTAS](https://pepadb.us.es/app/#quantas),co-founder and outreach officer of the CAA Latina America and the Caribbean regional chapter [CAA-LAC](https://lac.caa-international.org/)
  
  ---
  Soy un antropólogo y arqueólogo colombiano actualmente realizando un PhD en el Centro de arqueologia da Universidade de Lisba (UNIARQ). Mis intereses incluyen enfoques digitales de investigación arqueológica, modelamiento computacional de la complejidad social en el pasado, y analisis basado en grafos de datos arqueológicos. Soy miembro del grupo de investigación de Arqueologia Cuantitativa de la Universidad de Sevilla (QUANTAS) y co-fundador del capítulo regional para Latino América y el Caribe del Computer Applications and Quantitative Methods in Archaeology (CAA)

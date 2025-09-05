@@ -71,8 +71,10 @@ social:
 highlight_name: true
 ---
 
-I'm an Anthropological archaeologist and Research Software Developer pursuing a PhD at the Archaeological Centre of the University of Lisbon (UNIARQ).  My research includes semantic modelling of archaeological data, predictive modelling of social complexity, and graph-based analysis of archaeological data. Am a member of the Quantitative Archaeology Research Group at the University of Seville [QUANTAS](https://pepadb.us.es/app/#quantas),co-founder and outreach officer of the CAA Latina America and the Caribbean regional chapter [CAA-LAC](https://lac.caa-international.org/)
+I'm an Anthropological archaeologist and Research Software Developer pursuing a PhD at the Archaeological Centre of the University of Lisbon [UNIARQ](https://www.uniarq.net/). My research includes semantic modelling of archaeological data, predictive modelling of social complexity, and graph-based analysis of archaeological data. Am a member of the Quantitative Archaeology Research Group at the University of Seville [QUANTAS](https://pepadb.us.es/app/#quantas),co-founder and outreach officer of the CAA Latina America and the Caribbean regional chapter [CAA-LAC](https://lac.caa-international.org/)
  
  ---
- Soy un antropólogo y arqueólogo colombiano actualmente realizando un PhD en el Centro de arqueologia da Universidade de Lisba (UNIARQ). Mis intereses incluyen enfoques digitales de investigación arqueológica, modelamiento computacional de la complejidad social en el pasado, y analisis basado en grafos de datos arqueológicos. Soy miembro del grupo de investigación de Arqueologia Cuantitativa de la Universidad de Sevilla (QUANTAS) y co-fundador del capítulo regional para Latino América y el Caribe del Computer Applications and Quantitative Methods in Archaeology (CAA)
+Soy arqueólogo antropológico y desarrollador de software de investigación, y estoy cursando un doctorado en el Centro de Arqueología de la Universidad de Lisboa (UNIARQ). Mi investigación incluye el modelado semántico de datos arqueológicos, el modelado predictivo de la complejidad social y el análisis basado en grafos de datos arqueológicos. Soy miembro del Grupo de Investigación en Arqueología Cuantitativa de la Universidad de Sevilla QUANTAS, cofundador y responsable de divulgación de la sección regional de América Latina y el Caribe de la CAA (CAA-LAC).
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
 {style="text-align: justify;"}

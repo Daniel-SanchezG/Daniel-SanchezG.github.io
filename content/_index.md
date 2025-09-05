@@ -77,10 +77,10 @@ sections:
       title: Recent News
       subtitle: ''
       text: ''
-      count: 5  # número de noticias a mostrar
+      count: 5
       filters:
         folders:
-          - post  # aquí están tus noticias
+          - post
         exclude_featured: false
         exclude_future: false
         exclude_past: false
@@ -89,7 +89,7 @@ sections:
         text: "See all news"
         link: "post/"
     design:
-      view: compact  # o 'card' para vista más grande
+      view: compact
       columns: '2'
 
   - block: collection

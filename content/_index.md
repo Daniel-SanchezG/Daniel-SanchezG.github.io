@@ -72,25 +72,25 @@ sections:
       flip_alt_rows: false
 
   - block: collection
-      id: news
-      content:
-        title: Recent News
-        subtitle: ''
-        text: ''
-        count: 5  # número de noticias a mostrar
-        filters:
-          folders:
-            - post  # aquí están tus noticias
-          exclude_featured: false
-          exclude_future: false
-          exclude_past: false
-        archive:
-          enable: true
-          text: "See all news"
-          link: "post/"
-      design:
-        view: compact  # o 'card' para vista más grande
-        columns: '2'
+    id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: ''
+      count: 5  # número de noticias a mostrar
+      filters:
+        folders:
+          - post  # aquí están tus noticias
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      archive:
+        enable: true
+        text: "See all news"
+        link: "post/"
+    design:
+      view: compact  # o 'card' para vista más grande
+      columns: '2'
 
   - block: collection
     id: recent-publications

@@ -7,7 +7,7 @@ sections:
   - block: collection
     content:
       title: All News
-      subtitle: 'Press coverage and media mentions'
+      subtitle: ''
       text: ''
       count: 0
       filters:
@@ -19,6 +19,6 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      view: card  # Vista tipo tarjeta que también muestra metadatos
+      view: 4  # Vista tipo tarjeta que también muestra metadatos
       columns: '2'
 ---

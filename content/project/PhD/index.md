@@ -1,6 +1,6 @@
 ---
 title: Exploring a data-driven approach to study Social Complexity in Prehistory 
-summary: PhD project in Computational Archaeology and Personal Adornment in the Iberian Peninsula.t.
+summary: PhD project in Computational Archaeology and Personal Adornment in the Iberian Peninsula
 tags:
   - ComputationalArchaeology
   - Data-driven

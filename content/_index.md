@@ -82,8 +82,7 @@ sections:
         folders:
           - post
         exclude_featured: false
-        exclude_future: false
-        exclude_past: false
+        
       archive:
         enable: true
         text: "See all news"

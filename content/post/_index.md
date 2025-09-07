@@ -14,11 +14,10 @@ sections:
         folders:
           - post
         exclude_featured: false
-        exclude_future: false
-        exclude_past: false
+        
       sort_by: 'Date'
       sort_ascending: false
     design:
-      view: 4  # Vista tipo tarjeta que también muestra metadatos
+      view: citation # Vista tipo tarjeta que también muestra metadatos
       columns: '2'
 ---

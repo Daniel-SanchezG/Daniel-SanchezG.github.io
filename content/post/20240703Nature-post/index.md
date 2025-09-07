@@ -6,9 +6,6 @@ tags: ["Amber", "Archaeology"]
 external_link: "https://www.nature.com/articles/d41586-024-02139-5"
 publication: "Nature"
 publication_short: "Nature"
-publisher: "Nature"
 publication_types: ["8"]  # ← Agregar esta línea (8 = Media/News)
-venue: "Nature"  # Alternativa
-journal: "Nature"
 featured: true
 ---

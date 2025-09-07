@@ -7,5 +7,7 @@ external_link: "https://www.nature.com/articles/d41586-024-02139-5"
 publication: "Nature"
 publication_short: "Nature"
 publisher: "Nature"
+venue: "Nature"  # Alternativa
+journal: "Nature"
 featured: true
 ---

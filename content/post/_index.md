@@ -1,7 +1,7 @@
 ---
 title: News & Media Coverage
 cms_exclude: true
-type: widget_page
+
 
 sections:
   - block: collection

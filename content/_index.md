@@ -81,7 +81,7 @@ sections:
       filters:
         folders:
           - post
-        exclude_featured: false
+        exclude_featured: true
         
       archive:
         enable: true

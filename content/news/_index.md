@@ -11,12 +11,12 @@ sections:
       text: ''
       count: 5
       filters:
+        folders:
+          - post
         author: ""
         category: ""
         tag: ""
         exclude_featured: false
-        exclude_future: false
-        exclude_past: false
         publication_type: ""
       archive:
         enable: true

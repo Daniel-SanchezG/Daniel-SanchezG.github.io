@@ -1,23 +1,28 @@
 ---
-title: News & Media Coverage
-cms_exclude: true
-
+title: News
+type: landing
 
 sections:
   - block: collection
+    id: news
     content:
-      title: All News
+      title: Recent News
       subtitle: ''
       text: ''
-      count: 0
+      count: 5
       filters:
         folders:
           - post
+        author: ""
+        category: ""
+        tag: ""
         exclude_featured: false
-        
-      sort_by: 'Date'
-      sort_ascending: false
+        publication_type: ""
+      archive:
+        enable: true
+        text: "See all news"
+        link: "post/"
     design:
-      view: 4 
+      view: card
       columns: '2'
 ---

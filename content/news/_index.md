@@ -12,7 +12,7 @@ sections:
       count: 5
       filters:
         folders:
-          - news
+          - post
         author: ""
         category: ""
         tag: ""

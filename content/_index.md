@@ -82,13 +82,13 @@ sections:
       count: 5
       filters:
         folders:
-          - news
+          - post
         exclude_featured: false
         
       archive:
         enable: false
         text: "See all news"
-        link: "news/"
+        link: "post/"
     design:
       view: citation
       columns: '2'

@@ -73,7 +73,7 @@ sections:
       
       flip_alt_rows: false
 
-  - block: collection
+  - block: portfolio
     id: news
     content:
       title: Recent News

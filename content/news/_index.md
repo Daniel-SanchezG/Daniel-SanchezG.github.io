@@ -19,7 +19,7 @@ sections:
         exclude_past: false
         publication_type: ""
       archive:
-        enable: true
+        enable: false
         text: "See all news"
         link: "post/"
     design:

@@ -3,7 +3,7 @@ title: "Investigadores da Faculdade de Letras participam no desenvolvimento de u
 date: 2024-07-17
 summary: "Um grupo de investigadores do Centro de Arqueologia da Universidade de Lisboa (UNIARQ) e da Universidad de Sevilla desenvolveu um modelo de inteligência artificial para a classificação das matérias-primas minerais utilizadas no fabrico de objetos arqueológicos de adorno pessoal da Península Ibérica."
 tags: ["IA", "Arqueología"]
-external_url: "https://www.ulisboa.pt/noticia/investigadores-da-faculdade-de-letras-participam-no-desenvolvimento-de-uma-solucao-de-ia"
+external_link: "https://www.ulisboa.pt/noticia/investigadores-da-faculdade-de-letras-participam-no-desenvolvimento-de-uma-solucao-de-ia"
 publication: "Universidade de Lisboa"
 publication_short: "Ulisboa"
 featured: false

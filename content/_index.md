@@ -88,7 +88,7 @@ sections:
       archive:
         enable: false
         text: "See all news"
-        link: "post/"
+        link: "news/"
     design:
       view: citation
       columns: '2'

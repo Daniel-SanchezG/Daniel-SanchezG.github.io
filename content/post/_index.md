@@ -18,6 +18,6 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      view: citation # Vista tipo tarjeta que también muestra metadatos
+      view: 4 
       columns: '2'
 ---

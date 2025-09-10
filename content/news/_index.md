@@ -21,8 +21,8 @@ sections:
       archive:
         enable: true
         text: "See all news"
-        link: "news/"
+        link: "post/"
     design:
       view: card
-      columns: '1'
+      columns: '2'
 ---

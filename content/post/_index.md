@@ -12,7 +12,7 @@ sections:
       count: 0
       filters:
         folders:
-          - post
+          - news
         exclude_featured: false
         
       sort_by: 'Date'

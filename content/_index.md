@@ -82,7 +82,7 @@ sections:
       count: 5
       filters:
         folders:
-          - post
+          - news
         exclude_featured: false
         
       archive:

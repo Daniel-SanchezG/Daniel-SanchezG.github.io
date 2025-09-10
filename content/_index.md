@@ -73,7 +73,7 @@ sections:
       
       flip_alt_rows: false
 
-  - block: portfolio
+  - block: collection
     id: news
     content:
       title: Recent News
@@ -86,12 +86,12 @@ sections:
         exclude_featured: false
         
       archive:
-        enable: true
+        enable: false
         text: "See all news"
         link: "post/"
     design:
       view: citation
-      columns: '2'
+      columns: '1'
 
   - block: collection
     id: recent-publications

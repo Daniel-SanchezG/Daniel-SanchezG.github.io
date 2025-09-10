@@ -91,7 +91,7 @@ sections:
         link: "post/"
     design:
       view: citation
-      columns: '1'
+      columns: '2'
 
   - block: collection
     id: recent-publications

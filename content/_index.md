@@ -90,9 +90,8 @@ sections:
         text: "See all news"
         link: "post/"
     design:
-      view: "card"
+      view: "compact"
       columns: '2'
-      readingTime: false
 
   - block: collection
     id: recent-publications

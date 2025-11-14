@@ -90,7 +90,7 @@ sections:
         text: "See all news"
         link: "post/"
     design:
-      view: citation
+      view: "card"
       columns: '2'
 
   - block: collection

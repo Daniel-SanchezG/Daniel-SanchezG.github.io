@@ -1,6 +1,6 @@
 ---
 title: News
-type: landing
+type: posts
 
 sections:
   - block: collection

@@ -76,10 +76,10 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: News
       subtitle: ''
       text: ''
-      count: 5
+      count: 9
       filters:
         folders:
           - post

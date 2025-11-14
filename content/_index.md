@@ -90,7 +90,7 @@ sections:
         text: "See all news"
         link: "post/"
     design:
-      view: "classic"
+      view: "masonry"
       columns: '2'
 
   - block: collection

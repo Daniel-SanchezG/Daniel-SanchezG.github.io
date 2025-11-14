@@ -92,6 +92,7 @@ sections:
     design:
       view: "card"
       columns: '2'
+      reading_time: false
 
   - block: collection
     id: recent-publications

@@ -92,7 +92,7 @@ sections:
     design:
       view: "card"
       columns: '2'
-      reading_time: false
+      readingTime: false
 
   - block: collection
     id: recent-publications

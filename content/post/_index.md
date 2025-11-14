@@ -3,7 +3,7 @@ title: News
 cms_exclude: false
 
 
-view: 4
+view: 3
 
 
 ---

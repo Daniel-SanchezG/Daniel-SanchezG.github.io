@@ -9,7 +9,7 @@ sections:
       title: Recent News
       subtitle: ''
       text: ''
-      count: 5
+      count: 9
       filters:
         folders:
           - post

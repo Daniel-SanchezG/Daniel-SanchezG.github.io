@@ -13,10 +13,10 @@ authors:
 - Primitiva Bueno Ramírez
 - Carlos P. Odriozola
 date: '2025-04-01'
-publishDate: '2025-09-05T20:17:37.371584Z'
+publishDate: '2025-11-15T20:17:37.371584Z'
 publication_types:
-- manuscript
-publication: '*Social Science Research Network*'
+- article
+publication: '*Journal of Archaeological Science*'
 doi: 10.2139/ssrn.5214878
 abstract: 'This study addresses critical gaps in the provenance analysis of variscite
   and related green phosphate minerals, which serve as key tracers of prehistoric
@@ -59,5 +59,5 @@ tags:
 - information theory
 links:
 - name: URL
-  url: https://papers.ssrn.com/abstract=5214878
+  url: https://www.sciencedirect.com/science/article/pii/S0305440325002778
 ---

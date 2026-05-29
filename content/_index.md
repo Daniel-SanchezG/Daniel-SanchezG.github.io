@@ -64,7 +64,9 @@ sections:
         - name: IberAmber
           tag: IberAmber
         - name: PhD
-          tag: PhD  
+          tag: PhD
+          name: Archaeology of Fakes and Perception
+          tag: Archaeology of Fakes and Perception    
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

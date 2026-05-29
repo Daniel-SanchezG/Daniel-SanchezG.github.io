@@ -65,9 +65,8 @@ sections:
           tag: IberAmber
         - name: PhD
           tag: PhD
-          name: Archaeology of Fakes and Perception
-          tag: Archaeology of Fakes and Perception    
-
+          name: PID2021-124421NB-I00 
+          tag: Archaeology of Fakes
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
